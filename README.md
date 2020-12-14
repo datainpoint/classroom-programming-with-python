@@ -8,6 +8,10 @@ Classroom for Data Analytics Club, NTU 2020.
 - Institute: Data Analytics Club, NTU
 - Instructor: Kuo, Yao-Jen <yaojenkuo@datainpoint.com> from [DATAINPOINT](https://www.datainpoint.com)
 
+## Environment
+
+
+
 ## Slides, exercises and homeworks
 
 |Date|Slides|Exercise|Homework|
