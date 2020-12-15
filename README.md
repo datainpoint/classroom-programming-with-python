@@ -16,7 +16,7 @@ Classroom for Data Analytics Club, NTU 2020.
 
 |Date|Slides|Exercise|Homework|
 |----|------|--------|--------|
-|2020-12-16|[]()|||
+|2020-12-16|[]()||[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac/HEAD?filepath=hw1.ipynb)|
 |2020-12-23|[]()|||
 
 How to convert slides.html to PDF format?
