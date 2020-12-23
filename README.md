@@ -23,3 +23,9 @@ Fast Python for Data Analytics Club, NTU 2020.
 How to convert slides.html to PDF format?
 - Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
 - File > Print... > Save as PDF
+
+## Python good reads
+
+- [Introducing Python](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1492051365)
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
