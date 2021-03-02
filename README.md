@@ -1,32 +1,37 @@
-# classroom-ntu-dac
+# classroom-ntu-dac-sqlfifty
 
-Fast Python for Data Analytics Club, NTU 2020.
+SQL Fifty for Data Analytics Club, NTU 2021.
 
 ## General information
 
-- Pre-requisites: None
-- Institute: Data Analytics Club, NTU
-- Instructor: Kuo, Yao-Jen <yaojenkuo@datainpoint.com> from [DATAINPOINT](https://www.datainpoint.com)
+- Pre-requisites: None.
+- Institute: Data Analytics Club, NTU.
+- Instructor: Kuo, Yao-Jen <yaojenkuo@datainpoint.com> from [DATAINPOINT](https://www.datainpoint.com).
 
-## Environment, no strings attached
+## Environment
 
-- Google Colab: <https://colab.research.google.com/>
-- BinderHub: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/mybinder-jovyans-assembles/xeus-sqlite)
+- IDE: [SQLiteStudio](https://sqlitestudio.pl/)
+- Databases: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac-sqlfifty/HEAD?filepath=databases)
+- BinderHub: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac-sqlfifty/HEAD)
 
-## Slides, exercises and homeworks
+## Lecture
 
-|Date|Slides|Exercise|Homework|Colab|
-|----|------|--------|--------|----------|
-|2020-12-16|[Fast Python: Getting Started](fast-python-getting-started.slides.html)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac/HEAD?filepath=ex1.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac/HEAD?filepath=hw1.ipynb)|[Code Along](https://colab.research.google.com/drive/1uOUUT_bX4nf-iPp9oEtX270AquWtHLQW?usp=sharing)|
-|2020-12-23|[Fast Python: Assembling Codes](fast-python-assembling-codes.slides.html)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac/HEAD?filepath=ex2.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac/HEAD?filepath=hw2.ipynb)|[Code Along](https://colab.research.google.com/drive/1uOUUT_bX4nf-iPp9oEtX270AquWtHLQW?usp=sharing)|
+- 2021-03-03
+    - 00-introduction
+    - 01-environment
+    - 02-select-from
+    - 03-calculated-fields
+    - 04-functions
+    - 05-order-by
+    - 06-where
+- 2021-03-10
+    - 07-case
+    - 08-group-by-having
+    - 09-subqueries
+    - 10-union-join
 
-How to convert slides.html to PDF format?
-- Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
-- File > Print... > Save as PDF
+## SQL good reads
 
-## Python good reads
-
-- [Introducing Python](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1492051365)
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [數據交點 \| Medium](https://medium.com/datainpoint)
+- [Learning SQL](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)
+- [Language of SQL](https://www.amazon.com/Language-SQL-Learning-Larry-Rockoff-ebook/dp/B01JJ61TCI/)
+- SQL的五十道練習題：初學者友善的資料庫入門
