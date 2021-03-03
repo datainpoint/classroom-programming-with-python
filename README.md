@@ -23,8 +23,8 @@ SQL Fifty for Data Analytics Club, NTU 2021.
     - 03-calculated-fields
     - 04-functions
     - 05-order-by
-    - 06-where
 - 2021-03-10
+    - 06-where
     - 07-case
     - 08-group-by-having
     - 09-subqueries
