@@ -1,37 +1,28 @@
-# classroom-ntu-dac-sqlfifty
+# classroom-programming-with-python
 
-SQL Fifty for Data Analytics Club, NTU 2021.
+Programming with Python.
 
 ## General information
 
 - Pre-requisites: None.
-- Institute: Data Analytics Club, NTU.
+- Institute:  NTU CSIE Codecamp.
 - Instructor: Kuo, Yao-Jen <yaojenkuo@datainpoint.com> from [DATAINPOINT](https://www.datainpoint.com).
 
-## Environment
+## Lecture notes
 
-- IDE: [SQLiteStudio](https://sqlitestudio.pl/)
-- Databases: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac-sqlfifty/HEAD?filepath=databases)
-- BinderHub: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/classroom-ntu-dac-sqlfifty/HEAD)
+- [Getting Started with Python]()
+- [Data Structures in Python]()
+- [Flow of Control in Python]()
+- [Being Functional with Python]()
+- [Being Object-oriented with Python]()
+- [Modules and Libraries in Python]()
 
-## Lecture
+How to transform `slides.html` to PDF format?
+- Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
+- File > Print... > Save as PDF
 
-- 2021-03-03
-    - 00-introduction
-    - 01-environment
-    - 02-select-from
-    - 03-calculated-fields
-    - 04-functions
-    - 05-order-by
-- 2021-03-10
-    - 06-where
-    - 07-case
-    - 08-group-by-having
-    - 09-subqueries
-    - 10-union-join
+## Python good reads
 
-## SQL good reads
-
-- [Learning SQL](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614)
-- [Language of SQL](https://www.amazon.com/Language-SQL-Learning-Larry-Rockoff-ebook/dp/B01JJ61TCI/)
-- SQL的五十道練習題：初學者友善的資料庫入門
+- [Introducing Python](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1492051365)
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+- [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=194899-1fb421&utm_medium=affiliate&utm_source=tonykuo)
