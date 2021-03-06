@@ -10,12 +10,13 @@ Programming with Python.
 
 ## Lecture notes
 
-- [Getting Started with Python]()
-- [Data Structures in Python]()
-- [Flow of Control in Python]()
-- [Being Functional with Python]()
-- [Being Object-oriented with Python]()
-- [Modules and Libraries in Python]()
+- [Getting Started with Python](00-getting-started-with-python/lecture.slides.html)
+- [Data Structures in Python](01-data-structures-in-python/lecture.slides.html)
+- [Flow of Control in Python](02-flow-of-control-in-python/lecture.slides.html)
+- [Being Functional with Python](03-being-functional-with-python/lecture.slides.html)
+- [Being Object-oriented with Python](04-being-object-oriented-with-python/lecture.slides.html)
+- [Modules and Libraries in Python](05-modules-and-libraries-in-python/lecture.slides.html)
+- [Useful Skills in Python](06-useful-skills-in-python/lecture.slides.html)
 
 How to transform `slides.html` to PDF format?
 - Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
