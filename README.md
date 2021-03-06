@@ -5,11 +5,11 @@ Programming with Python.
 ## General information
 
 - Pre-requisites: None.
-- Institute:  NTU CSIE Codecamp.
+- Institute: NTU CSIE Codecamp.
 - Instructor: Kuo, Yao-Jen <yaojenkuo@datainpoint.com> from [DATAINPOINT](https://www.datainpoint.com).
 
 ## Lecture notes
-
+ 
 - [Getting Started with Python](00-getting-started-with-python/lecture.slides.html)
 - [Data Structures in Python](01-data-structures-in-python/lecture.slides.html)
 - [Flow of Control in Python](02-flow-of-control-in-python/lecture.slides.html)
