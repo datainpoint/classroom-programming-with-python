@@ -15658,7 +15658,7 @@ divName: Atlantic
 <span class="k">while</span> <span class="nb">len</span><span class="p">(</span><span class="n">odds_not_primes</span><span class="p">)</span> <span class="o">&lt;</span> <span class="mi">5</span><span class="p">:</span>
     <span class="k">if</span> <span class="n">i</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">primes</span><span class="p">:</span>
         <span class="n">odds_not_primes</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
-    <span class="n">i</span> <span class="o">+=</span> <span class="mi">2</span>
+    <span class="n">i</span> <span class="o">+=</span> <span class="mi">2</span> <span class="c1"># i = i + 2</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">odds_not_primes</span><span class="p">)</span>
 </pre></div>
 
@@ -15702,8 +15702,8 @@ divName: Atlantic
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">summations</span> <span class="o">=</span> <span class="mi">0</span>
 <span class="n">counts</span> <span class="o">=</span> <span class="mi">0</span>
 <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">odds_not_primes</span><span class="p">:</span>
-    <span class="n">summations</span> <span class="o">+=</span> <span class="n">i</span>
-    <span class="n">counts</span> <span class="o">+=</span> <span class="mi">1</span>
+    <span class="n">summations</span> <span class="o">+=</span> <span class="n">i</span> <span class="c1"># summations = summations + 1</span>
+    <span class="n">counts</span> <span class="o">+=</span> <span class="mi">1</span>     <span class="c1"># counts = counts + 1</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">summations</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">counts</span><span class="p">)</span>
 </pre></div>
