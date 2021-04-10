@@ -16,7 +16,6 @@ Programming with Python.
 - [Being Functional with Python](03-being-functional-with-python/lecture.slides.html)
 - [Being Object-oriented with Python](04-being-object-oriented-with-python/lecture.slides.html)
 - [Modules and Libraries in Python](05-modules-and-libraries-in-python/lecture.slides.html)
-- [Useful Skills in Python](06-useful-skills-in-python/lecture.slides.html)
 
 How to transform `slides.html` to PDF format?
 - Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
